@@ -4,7 +4,7 @@ This notebook builds an end to end multi class image classifier using TensorFlow
 
 ### problem definition
 
-Creating a system for identifying objects in an image and classifying them
+Creating a system for identifying and classifying objects by images
 
 ### Data
 
